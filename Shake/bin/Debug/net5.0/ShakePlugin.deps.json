@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ShakePlugin/1.0.0": {
+        "dependencies": {
+          "Mono.Data.Sqlite": "2.0.0.0",
+          "Newtonsoft.Json": "10.0.0.0",
+          "OTAPI": "1.4.1.2",
+          "TerrariaServer": "1.4.1.2",
+          "TShockAPI": "4.4.0.0"
+        },
+        "runtime": {
+          "ShakePlugin.dll": {}
+        }
+      },
+      "Mono.Data.Sqlite/2.0.0.0": {
+        "runtime": {
+          "Mono.Data.Sqlite.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/10.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.3.21018"
+          }
+        }
+      },
+      "OTAPI/1.4.1.2": {
+        "runtime": {
+          "OTAPI.dll": {
+            "assemblyVersion": "1.4.1.2",
+            "fileVersion": "1.4.1.2"
+          }
+        }
+      },
+      "TerrariaServer/1.4.1.2": {
+        "runtime": {
+          "TerrariaServer.exe": {
+            "assemblyVersion": "1.4.1.2",
+            "fileVersion": "1.4.1.2"
+          }
+        }
+      },
+      "TShockAPI/4.4.0.0": {
+        "runtime": {
+          "TShockAPI.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShakePlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mono.Data.Sqlite/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OTAPI/1.4.1.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TerrariaServer/1.4.1.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TShockAPI/4.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
